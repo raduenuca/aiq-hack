@@ -1,6 +1,6 @@
 # Presentations
 
-[https://youtu.be/oxf3o8IbCk4](https://youtu.be/oxf3o8IbCk4)
+[https://youtu.be/oxf3o8IbCk4](TensorFlow 101)
 
 [https://youtu.be/MotG3XI2qSs](https://youtu.be/MotG3XI2qSs)
 
