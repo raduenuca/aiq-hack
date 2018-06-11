@@ -12,5 +12,3 @@
 
 [GOTO 2015 • Modern Fraud Prevention using Deep Learning • Phil Winder](https://youtu.be/51Id7P9sYXc)
 
-
-

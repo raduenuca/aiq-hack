@@ -22,9 +22,3 @@ description: Some books on the subject
 
 {% embed data="{\"url\":\"https://legacy.gitbook.com/book/leonardoaraujosantos/artificial-inteligence/details\",\"type\":\"link\",\"title\":\"Artificial Inteligence · GitBook\",\"description\":\"artificial-inteligence: Document all stuff that I learn about AI and Deep learning\",\"icon\":{\"type\":\"icon\",\"url\":\"https://legacy.gitbook.com/assets/images/logo/apple-touch-icon-152.png\",\"width\":152,\"height\":152,\"aspectRatio\":1}}" %}
 
-
-
-
-
-
-

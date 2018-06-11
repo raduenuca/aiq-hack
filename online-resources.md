@@ -6,7 +6,7 @@
 
 {% embed data="{\"url\":\"https://keras.io/\",\"type\":\"link\",\"title\":\"Keras Documentation\",\"icon\":{\"type\":\"icon\",\"url\":\"https://keras.io/img/favicon.ico\",\"aspectRatio\":0}}" %}
 
-{% embed data="{\"url\":\"https://www.tensorflow.org/tutorials/\",\"type\":\"link\",\"title\":\"Tutorials  \|  TensorFlow\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.tensorflow.org/images/apple-touch-icon-180x180.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.tensorflow.org/images/tf\_logo\_social.png\",\"width\":1200,\"height\":675,\"aspectRatio\":0.5625}}" %}
+{% embed data="{\"url\":\"https://www.tensorflow.org/tutorials/\",\"type\":\"link\",\"title\":\"Tutorials  \|  TensorFlow\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.tensorflow.org/images/apple-touch-icon-180x180.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.tensorflow.org/images/tf\_logo\_social.png\",\"width\":1200,\"height\":675,\"aspectRatio\":0.5625}}" %}
 
 {% embed data="{\"url\":\"https://www.deeplearning.ai/\",\"type\":\"link\",\"title\":\"deeplearning.ai\",\"description\":\"Explore the frontier of AI.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static.wixstatic.com/media/90cb81\_a20e567eee874ea68e3724a53fa2074e%7Emv2.png/v1/fill/w\_32%2Ch\_32%2Clg\_1%2Cusm\_0.66\_1.00\_0.01/90cb81\_a20e567eee874ea68e3724a53fa2074e%7Emv2.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://static.wixstatic.com/media/90cb81\_29a66ff548ca42759f2ef39f12ebe867%7Emv2.png\",\"width\":802,\"height\":802,\"aspectRatio\":1}}" %}
 
@@ -19,6 +19,4 @@
 {% embed data="{\"url\":\"https://www.class-central.com/subject/deep-learning\",\"type\":\"link\",\"title\":\"Deep Learning \| Free Online Courses & MOOCs \| Class Central\",\"description\":\"Discover free online Deep Learning courses from top universities. Thousands of reviews written by Class Central users help you pick the best course.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.class-central.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.class-central.com/bundles/classcentralsite/slashpixel/images/ccprofilepic.png\",\"width\":411,\"height\":411,\"aspectRatio\":1}}" %}
 
 {% embed data="{\"url\":\"https://eu.udacity.com/course/deep-learning--ud730\",\"type\":\"link\",\"title\":\"Deep Learning \| Udacity\",\"description\":\"Show off what you\'ve learned in your Nanodegree program with a project that defines\",\"icon\":{\"type\":\"icon\",\"url\":\"https://eu.udacity.com/course/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://d20vrrgs8k4bvw.cloudfront.net/images/courses/thumbnails/ud730\_thumbnail.jpg\",\"width\":477,\"height\":293,\"aspectRatio\":0.6142557651991615}}" %}
-
-
 

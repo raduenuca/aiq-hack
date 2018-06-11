@@ -4,7 +4,5 @@ description: 'A collection of books, articles and presentations about deep learn
 
 # Deep learning resources
 
-## 
-
 
 
