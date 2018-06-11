@@ -54,7 +54,7 @@ Each of the steps should take about 4–6 weeks’ time. And in about 26 weeks s
 
 Do the Stanford’s [CS231n](http://cs231n.stanford.edu/) and [CS224d](http://cs224d.stanford.edu/) courses. These two are amazing courses with great depth for vision and NLP respectively. They cover the latest state-of-art. And read the [deep learning book](http://www.deeplearningbook.org/). This will solidify your understanding.
 
-#### [https://hn.premii.com/\#/article/16319475](https://hn.premii.com/#/article/16319475) {#source}
+#### Source [https://hn.premii.com/\#/article/16319475](https://hn.premii.com/#/article/16319475) {#source}
 
 
 
