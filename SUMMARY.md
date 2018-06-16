@@ -5,4 +5,5 @@
 * [Books](books.md)
 * [Online Resources](online-resources.md)
 * [Presentations](presentations.md)
+* [Learn Python](learn-python.md)
 
