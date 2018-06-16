@@ -2,8 +2,10 @@
 description: From Kaggle
 ---
 
-# Learn Python
+# Learn Python Challenge
 
-1. [Day 1](https://kaggle.us1.list-manage.com/track/click?u=e4c8fb8b43860678deab268e5&id=fcb5a53b90&e=ca3e8e7ad5)
-
+1. [Day 1: Syntax, Variable assignment, Numbers](https://www.kaggle.com/colinmorris/learn-python-challenge-day-1)
+2. [Day 2: Functions and Getting help](https://www.kaggle.com/colinmorris/learn-python-challenge-day-2)
+3. [Day 3: Booleans and Conditionals](https://www.kaggle.com/colinmorris/learn-python-challenge-day-3)
+4. [Day 4: Lists and Objects](https://www.kaggle.com/colinmorris/learn-python-challenge-day-4)
 
