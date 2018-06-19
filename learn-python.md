@@ -12,6 +12,7 @@ description: From Kaggle
 4. [Day 4: Lists and Objects](https://www.kaggle.com/colinmorris/learn-python-challenge-day-4)
 5. [Day 5: Loops and List Comprehensions](https://www.kaggle.com/colinmorris/learn-python-challenge-day-5)
 6. [Day 6: Strings and Dictionaries](https://www.kaggle.com/colinmorris/learn-python-challenge-day-6)
+7. [Day 7: Imports and Operator Overloading](https://www.kaggle.com/colinmorris/learn-python-challenge-day-7)
 
 
 
