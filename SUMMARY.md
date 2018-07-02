@@ -6,5 +6,6 @@
 * [Online Resources](online-resources.md)
 * [Presentations](presentations.md)
 * [Learn Python](learn-python.md)
-* [Artificial Intelligence](artificial-intelligence-nanodegree-udacity.md)
+* [Artificial Intelligence](artificial-intelligence.md)
+* [Microsoft Academy](microsoft-academy.md)
 
