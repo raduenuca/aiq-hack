@@ -1,7 +1,5 @@
 ---
-description: >-
-  In order to prepare for the Artificial Intelligence Nanodegree on Udacity
-  follow these steps
+description: Prepare for the Artificial Intelligence Nanodegree on Udacity
 ---
 
 # Artificial Intelligence
