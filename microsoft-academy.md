@@ -14,6 +14,12 @@ Artificial Intelligence will define the next generation of software solutions. T
 {% endhint %}
 
 2. Use Python to Work with Data
+
+{% hint style="info" %}
+[Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science-1)
+Learn the basics of Python programming. Starting from the very beginning, with basic arithmetic and variables, and learn how to handle data structures, such as Python lists, Numpy arrays, and Pandas DataFrames. Along the way, you’ll learn about Python functions and control flow. Plus, you’ll look at the world of data visualizations with Python and create your own stunning visualizations based on real data.
+{% endhint %}
+
 3. Use Math and Statistics Techniques
 4. Consider Ethics for AI
 5. Plan and Conduct a Data Study
