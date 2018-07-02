@@ -14,5 +14,3 @@ description: From Kaggle
 6. [Day 6: Strings and Dictionaries](https://www.kaggle.com/colinmorris/learn-python-challenge-day-6)
 7. [Day 7: Imports and Operator Overloading](https://www.kaggle.com/colinmorris/learn-python-challenge-day-7)
 
-
-

@@ -6,4 +6,5 @@
 * [Online Resources](online-resources.md)
 * [Presentations](presentations.md)
 * [Learn Python](learn-python.md)
+* [Deep Learning Nanodegree \(Udacity\)](deep-learning-nanodegree-udacity.md)
 
