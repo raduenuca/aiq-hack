@@ -31,9 +31,36 @@ description: 'Microsoft Professional Program for Artificial Intelligence track'
 {% endhint %}
 
 ## 5. Plan and Conduct a Data Study
+
+{% hint style="info" %}
+[Data Science Essentials](https://www.edx.org/course/data-science-essentials) - Learn key concepts and techniques used to perform data science; including statistical analysis, data cleansing and transformation, and data visualization with R, Python, and Microsoft Azure Machine Learning.
+{% endhint %}
+
 ## 6. Build Machine Learning Models
+
+{% hint style="info" %}
+[Principles of Machine Learning](https://www.edx.org/course/principles-of-machine-learning) - Learn how to build, evaluate, and optimize machine learning models; including classification, regression, clustering, and recommendation.
+{% endhint %}
+
 ## 7. Build Deep Learning Models
+
+{% hint style="info" %}
+[Deep Learning Explained](https://www.edx.org/course/deep-learning-explained-0) - Deep learning is a key enabler of AI powered technologies being developed across the globe. In this deep learning course, you will learn an intuitive approach to building complex models that help machines solve real-world problems with human-like intelligence. The intuitive approaches will be translated into working code with practical problems and hands-on experience. You will learn how to build and derive insights from these models using Python Jupyter notebooks running on your local Windows or Linux machine, or on a virtual machine running on Azure. You will learn how to use the Microsoft Cognitive Toolkit to harness the intelligence within massive datasets through deep learning with uncompromised scaling, speed, and accuracy.
+{% endhint %}
+
 ## 8. Build Reinforcement Learning Models
+
+{% hint style="info" %}
+[Reinforcement Learning Explained](https://www.edx.org/course/reinforcement-learning-explained-0) - Reinforcement Learning (RL) is an area of machine learning, where an agent learns by interacting with its environment to achieve a goal.In this course, you will be introduced to the world of reinforcement learning. You will learn how to frame reinforcement learning problems and start tackling classic examples like news recommendation, learning to navigate in a grid-world, and balancing a cart-pole. You will explore the basic algorithms from multi-armed bandits, dynamic programming, TD (temporal difference) learning, and progress towards larger state space using function approximation, in particular using deep learning. You will also learn about algorithms that focus on searching the best policy with policy gradient and actor critic methods. Along the way, you will get introduced to Project Malmo, a platform for Artificial Intelligence experimentation and research built on top of the Minecraft game.
+{% endhint %}
+
 ## 9. Develop Applied AI Solutions
+
+### Option 1
+
+{% hint style="info" %}
+[Natural Language Processing (NLP)](https://www.edx.org/course/natural-language-processing-nlp) - Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. In this course, you will be given a thorough overview of Natural Language Processing and how to use classic machine learning methods. You will learn about Statistical Machine Translation as well as Deep Semantic Similarity Models (DSSM) and their applications. We will also discuss deep reinforcement learning techniques applied in NLP and Vision-Language Multimodal Intelligence.
+{% endhint %}
+
 ## 10. Final Project
 
