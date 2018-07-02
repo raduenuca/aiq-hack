@@ -56,11 +56,27 @@ description: 'Microsoft Professional Program for Artificial Intelligence track'
 
 ## 9. Develop Applied AI Solutions
 
-### Option 1
+### Natural Language Processing (NLP)
 
 {% hint style="info" %}
 [Natural Language Processing (NLP)](https://www.edx.org/course/natural-language-processing-nlp) - Natural language processing (NLP) is one of the most important technologies of the information age. Understanding complex language utterances is also a crucial part of artificial intelligence. In this course, you will be given a thorough overview of Natural Language Processing and how to use classic machine learning methods. You will learn about Statistical Machine Translation as well as Deep Semantic Similarity Models (DSSM) and their applications. We will also discuss deep reinforcement learning techniques applied in NLP and Vision-Language Multimodal Intelligence.
 {% endhint %}
 
+### Speech Recognition Systems
+
+{% hint style="info" %}
+[Speech Recognition Systems](https://www.edx.org/course/speech-recognition-systems-0) - This course is designed to give an overview of the components of a modern Automatic Speech Recognition (ASR) system. In each lecture, we describe a component's purpose and general structure. In each lab, the student creates a functioning block of the system. At the end of the course, we will have built a speech recognition system almost entirely out of Python code.
+{% endhint %}
+
+### Computer Vision and Image Analysis
+
+{% hint style="info" %}
+[Computer Vision and Image Analysis](https://www.edx.org/course/computer-vision-and-image-analysis-0) - Learn about Image Analysis techniques using OpenCV and the Microsoft Cognitive Toolkit to segment images into meaningful parts. You will explore the evolution of Computer Vision, from classical to Deep-Learning techniques using Transfer Learning and Microsoft ResNet to train a model to perform Semantic Segmentation.
+{% endhint %}
+
 ## 10. Final Project
+
+{% hint style="info" %}
+[Microsoft Professional Capstone : Artificial Intelligence](https://www.edx.org/course/microsoft-capstone-ai-0) - Validate the skills and knowledge you’ve acquired during the Microsoft Professional Program for Artificial Intelligence, and solve a real-world AI problem in this program capstone project. The project takes the form of a challenge in which you will develop a deep learning solution that is tested and scored to determine your grade.Note: This course assumes you have completed the previous courses in the Microsoft Professional Program for Artificial Intelligence.
+{% endhint %}
 
